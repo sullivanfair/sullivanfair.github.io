@@ -1,5 +1,5 @@
 # Sullivan Fair - Software Engineering student at Iowa State University.
-Please feel free to explore my repositories and see what I've worked on.  If you're intersting in learning more about me, I have included my LinkedIn information below.  I would love to connect! <br>
+Please feel free to explore my repositories and see what I've worked on.  If you're intersting in learning more about me, I have included my LinkedIn information below along with my current resume as a separate file.  I would love to connect! <br>
 
 LinkedIn: https://www.linkedin.com/in/sullivan-fair/ <br>
 

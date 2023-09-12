@@ -1,7 +1,7 @@
 # Sullivan Fair - Software engineering student at Iowa State University.
 Searching for a software engineering-related internship or co-op.<br>
 
-Expecting to graduate from Iowa State University in Fall 2024 with a Bachelor of Science in Software Engineering. <br>
+Expecting to graduate from Iowa State University in Spring 2025 with a Bachelor of Science in Software Engineering and minor in Cyber Security. <br>
 Developed knowledge and skills in Java with an emphasis on object-oriented programming. <br>
 Currently studying software and user interface development as well as computer graphics. <br>
 
